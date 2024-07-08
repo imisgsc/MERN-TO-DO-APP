@@ -1,6 +1,4 @@
-## Project Title
-
-**Todo List Application using MERN**
+## **Todo List Application using MERN**
 
 ## Table of Contents
 
