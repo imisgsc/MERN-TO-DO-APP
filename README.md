@@ -1,5 +1,3 @@
-### README for Todo List Application using MERN
-
 ## Project Title
 
 **Todo List Application using MERN**
